@@ -14,3 +14,7 @@ def media(a,b,c):
 	print media
 
 media (2,3,4)
+
+#Nota: 0.8
+#Comentario: Funcao nao precisa de parametros porque vc vle internamente. O
+#calculo esta retornando um inteiro.

@@ -23,3 +23,6 @@ print "MEDIA CALCULADA "
 print media
 
 print "fim do programa" 
+
+#Nota: 1.0
+#Comentario: muito bom
