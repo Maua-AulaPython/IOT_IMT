@@ -42,4 +42,6 @@ print lista
 print "fim do programa" 
 
 
+#Nota: 1.1
+#Comentario: Valia 1, porem dando +0.1 por uso de funcao adicional nao ensinada em aula
   
